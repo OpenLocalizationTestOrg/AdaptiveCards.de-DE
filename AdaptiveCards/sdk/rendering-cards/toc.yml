@@ -1,0 +1,98 @@
+- name: Android
+  items:
+    - name: Erste Schritte
+      href: android/getting-started.md
+    - name: Rendering einer Karte
+      href: android/render-a-card.md
+    - name: Aktionen
+      href: android/actions.md
+    - name: Host Konfiguration
+      href: android/host-config.md
+    - name: Native Formatierung
+      href: android/native-styling.md
+    - name: Erweiterungen
+      href: android/extensibility.md
+- name: iOS
+  items:
+    - name: Erste Schritte
+      href: ios/getting-started.md
+    - name: Rendering einer Karte
+      href: ios/render-a-card.md
+    - name: Aktionen
+      href: ios/actions.md
+    - name: Host Konfiguration
+      href: ios/host-config.md
+    - name: Native Formatierung
+      href: ios/native-styling.md
+    - name: Erweiterungen
+      href: ios/extensibility.md
+- name: JavaScript
+  items:
+    - name: Erste Schritte
+      href: javascript/getting-started.md
+    - name: Rendering einer Karte
+      href: javascript/render-a-card.md
+    - name: Aktionen
+      href: javascript/actions.md
+    - name: Host Konfiguration
+      href: javascript/host-config.md
+    - name: Native Formatierung
+      href: javascript/native-styling.md
+    - name: Erweiterungen
+      href: javascript/extensibility.md
+- name: .NET HTML
+  items:
+    - name: Erste Schritte
+      href: net-html/getting-started.md
+    - name: Rendering einer Karte
+      href: net-html/render-a-card.md
+    - name: Aktionen
+      href: net-html/actions.md
+    - name: Host Konfiguration
+      href: net-html/host-config.md
+    - name: Native Formatierung
+      href: net-html/native-styling.md
+    - name: Erweiterungen
+      href: net-html/extensibility.md
+- name: .NET WPF
+  items:
+    - name: Erste Schritte
+      href: net-wpf/getting-started.md
+    - name: Rendering einer Karte
+      href: net-wpf/render-a-card.md
+    - name: Aktionen
+      href: net-wpf/actions.md
+    - name: Host Konfiguration
+      href: net-wpf/host-config.md
+    - name: Native Formatierung
+      href: net-wpf/native-styling.md
+    - name: Erweiterungen
+      href: net-wpf/extensibility.md
+- name: .Net-Image
+  items:
+    - name: Erste Schritte
+      href: net-image/getting-started.md
+    - name: Rendering einer Karte
+      href: net-image/render-a-card.md
+    - name: Aktionen
+      href: net-image/actions.md
+    - name: Host Konfiguration
+      href: net-image/host-config.md
+    - name: Native Formatierung
+      href: net-image/native-styling.md
+    - name: Erweiterungen
+      href: net-image/extensibility.md
+- name: UWP
+  items:
+    - name: Erste Schritte
+      href: uwp/getting-started.md
+    - name: Rendering einer Karte
+      href: uwp/render-a-card.md
+    - name: Aktionen
+      href: uwp/actions.md
+    - name: Host Konfiguration
+      href: uwp/host-config.md
+    - name: Native Formatierung
+      href: uwp/native-styling.md
+    - name: Erweiterungen
+      href: uwp/extensibility.md

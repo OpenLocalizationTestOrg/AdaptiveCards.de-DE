@@ -1,0 +1,50 @@
+- name: Übersicht
+  href: index.md
+- name: Erste Schritte
+  items:
+    - name: Bot-Entwickler
+      href: getting-started/bots.md
+    - name: Windows-Entwickler
+      href: getting-started/windows.md
+    - name: Outlook-Entwickler
+      href: getting-started/outlook.md
+- name: Erstellen von Karten
+  items:
+    - name: Erste Schritte
+      href: authoring-cards/getting-started.md
+    - name: Karten Schema
+      href: 'https://adaptivecards.io/explorer'
+    - name: Sprache
+      href: authoring-cards/speech.md
+    - name: Text Features
+      href: authoring-cards/text-features.md
+- name: Rendern von Karten
+  items:
+    - name: Erste Schritte
+      href: rendering-cards/getting-started.md
+    - name: Aktionen
+      href: rendering-cards/actions.md
+    - name: Host Konfiguration
+      href: rendering-cards/host-config.md
+    - name: Erweiterungen
+      href: rendering-cards/extensibility.md
+    - name: Rendererstatus
+      href: rendering-cards/renderer-status.md
+    - name: Implementieren eines Renderers
+      href: rendering-cards/implement-a-renderer.md
+- name: SDK
+  items:
+    - name: Erstellen von Karten
+      href: sdk/authoring-cards/toc.yml
+    - name: Rendern von Karten
+      href: sdk/rendering-cards/toc.yml
+- name: Ressourcen
+  items:
+    - name: Prinzipien
+      href: resources/principles.md
+    - name: Partnern
+      href: resources/partners.md
+    - name: Tools
+      href: resources/tools.md
+    - name: Wegweiser
+      href: resources/future.md
